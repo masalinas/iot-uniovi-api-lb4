@@ -1,0 +1,10 @@
+{
+  "name": "uniovi",
+  "connector": "mongodb",
+  "url": "mongodb://uniovi:thingtrack@localhost:27017/uniovidb",
+  "host": "localhost",
+  "port": 27017,
+  "user": "uniovi",
+  "password": "thingtrack",
+  "database": "uniovidb"
+}
